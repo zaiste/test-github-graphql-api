@@ -23,5 +23,8 @@
     "images": [
       "/apps/klaviyo_image_1.png"
     ]
+  },
+  {
+    "name": "Test"
   }
 ]
